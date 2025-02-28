@@ -34,3 +34,9 @@ body {
   background-image: url("../images/repeating.png");
   float: left;
 }
+
+#footer {
+  background-color: #777;
+  height: 80px;
+  clear: both;
+}
