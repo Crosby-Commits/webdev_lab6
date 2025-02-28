@@ -29,3 +29,8 @@ body {
   margin-left: 20px;
   margin-bottom: 20px;
 }
+
+#content-wrapper {
+  background-image: url("../images/repeating.png");
+  float: left;
+}
